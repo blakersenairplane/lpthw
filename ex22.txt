@@ -1,0 +1,21 @@
+print => prints a string out into the console
++ => will add two numbers together or concatenate strings
+- => will subtract two numbers from each other
+* => will multiply two numbers together
+/ => will divide two or more numbers
+<, > => will compare two numbers
+= => declartion of a variable
+print(f"") => print format, allows for print formatting
+string.format() => another way of formatting strings 
+""" """ => multiple line string that does extra formatting
+\ => escape character
+input() => takes input from the user
+from / import => import from another library or module
+argv => argument variable that allows you to pull in arguments 
+    from outside
+open() => open function to open a file
+read() => read a file that has been opened
+close() => close a file 
+truncate() => delete everything in a file
+len => get the length of a file 
+seek => allows you to set the file's current position
