@@ -1,6 +1,6 @@
 i = 0
 numbers = []
-incremental = input("> ")
+incremental = 2
 
 
 def whileLoop(number, increment):
